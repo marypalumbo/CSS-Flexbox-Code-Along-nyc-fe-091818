@@ -15,6 +15,7 @@
 
 .box1 { 
   background:#1abc9c;
+  flex-shrink: 1;
 }
 
 .box2 { background:#3498db;}
@@ -27,7 +28,7 @@
 .box9 { background:#2ecc71;}
 .box10 { 
   background:#16a085;
-  flex: 1;
+  flex-grow: 1;
 }
 
 .container {
